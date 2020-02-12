@@ -1,0 +1,9 @@
+.menus {
+	display: flex;
+	text-align: center;
+}
+
+.menus img {
+	border-radius: 8px;
+    margin-right: 20px;
+}
